@@ -1,2 +1,2 @@
-# kharkiv-css
-code samples for kharkiv-css conference
+# [Kharkiv CSS](http://kharkivcss.org/)
+code saples for kharkiv-css conference
