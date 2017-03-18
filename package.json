@@ -16,7 +16,5 @@
     "url": "https://github.com/webcamp-ua/kharkiv-css/issues"
   },
   "homepage": "https://github.com/webcamp-ua/kharkiv-css#readme",
-  "dependencies": {
-    "foundation-sites": "^6.3.1"
-  }
+  "dependencies": {}
 }

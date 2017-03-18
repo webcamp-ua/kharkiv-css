@@ -1,0 +1,25 @@
+$gutter: 1em;
+$width: 100%;
+
+.container {
+  overflow: hidden;
+  .col-50 {
+    padding: $gutter;
+    float: left;
+    width: $width;
+  }
+}
+
+@media (min-width: 30em) {
+  $gutter: 2em;
+  $width: 50%;
+  .container {
+    .col-50 {
+      width: $width;
+    }
+  }
+}
+
+* {
+  box-sizing: border-box;
+}

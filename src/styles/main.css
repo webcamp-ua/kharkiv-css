@@ -1,0 +1,14 @@
+.container {
+  overflow: hidden; }
+  .container .col-50 {
+    padding: 1em;
+    float: left;
+    width: 100%; }
+
+@media (min-width: 30em) {
+  .container .col-50 {
+    width: 50%; } }
+* {
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=main.css.map */
