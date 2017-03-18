@@ -1,0 +1,22 @@
+{
+  "name": "kharkiv-css",
+  "version": "1.0.0",
+  "description": "code saples for kharkiv-css conference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcamp-ua/kharkiv-css.git"
+  },
+  "author": "zhukovka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcamp-ua/kharkiv-css/issues"
+  },
+  "homepage": "https://github.com/webcamp-ua/kharkiv-css#readme",
+  "dependencies": {
+    "foundation-sites": "^6.3.1"
+  }
+}
