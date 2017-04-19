@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,UAAU;EACR,KAAK,EAAE,KAAU",
+"sources": ["math.scss"],
+"names": [],
+"file": "math.css"
+}

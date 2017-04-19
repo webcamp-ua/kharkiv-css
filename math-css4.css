@@ -1,0 +1,6 @@
+:root{
+  --unit:1rem;
+}
+.container {
+  width: calc(42 * var(--unit)); 
+}

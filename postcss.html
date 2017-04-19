@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <title>CSS variables with PostCSS</title>
+  <style>
+    /* custom properties */
+    :root {
+    --mainColor: red;
+    }
+    .override{
+      --mainColor:blue;
+    }
+    div{
+      color: var(--mainColor);
+    }
+    body{
+      font-family: 'Roboto', sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>CSS variables with PostCSS</h1>
+  <div>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora eveniet quibusdam cum reprehenderit cupiditate fugiat hic, quae, necessitatibus rem porro?
+  </div>
+  <div class="override">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium dolor recusandae molestiae magnam aliquam temporibus voluptas quis blanditiis quod similique.
+  </div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+@import "variables";
+.one{
+  color: $color;
+  padding: 10px;
+}
+
+.two{
+  color: $color;
+  font-weight: bold;
+}
+
+.three{
+  float: left;
+  color: $color;
+}

@@ -1,0 +1,11 @@
+:root{
+  --color: #000;
+}
+/*Cascade*/
+.color {
+  --color: blue;
+}
+
+*{
+  color: var(--color);
+}

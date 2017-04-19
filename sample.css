@@ -1,0 +1,14 @@
+.one{
+  color: #666;
+  padding: 10px;
+}
+
+.two{
+  color: #666;
+  font-weight: bold;
+}
+
+.three{
+  float: left;
+  color: #666;
+}
