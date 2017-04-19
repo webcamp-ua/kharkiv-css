@@ -1,0 +1,11 @@
+:root{
+  --w: 100%;
+}
+.col-sm-6 {
+  width: var(--w);
+}
+@media (min-width: 30em) {
+  :root{
+    --w: 50%;
+  }
+}

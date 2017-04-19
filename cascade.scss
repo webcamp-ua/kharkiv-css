@@ -1,0 +1,14 @@
+.btn{
+  border-radius: 3px;
+  background-color: rgba(0,0,0,.87);
+  color: white;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 5px 14px;
+  text-transform: uppercase;
+  display: inline-block;
+  .header &{
+    font-size: 24px;
+    font-weight: 800;
+  }
+}

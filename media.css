@@ -1,0 +1,8 @@
+.col-sm-6 {
+  width: 100%; }
+
+@media (min-width: 30em) {
+  .col-sm-6 {
+    width: 50%; } }
+
+/*# sourceMappingURL=media.css.map */
