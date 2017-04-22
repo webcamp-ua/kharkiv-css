@@ -1,6 +1,8 @@
 # [Kharkiv CSS](http://kharkivcss.org/)
 code saples for kharkiv-css conference
 
+![alt="slides"](https://github.com/webcamp-ua/kharkiv-css/blob/master/CSS%20Variables.jpg?raw=true)
+
 ## Resources
 
 - [Why I'm Excited About Native CSS Variables — Philip Walton](https://philipwalton.com/articles/why-im-excited-about-native-css-variables/)
