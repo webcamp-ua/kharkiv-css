@@ -7,3 +7,4 @@ code saples for kharkiv-css conference
 - [What is the difference between CSS variables and preprocessor variables? | CSS-Tricks](https://css-tricks.com/difference-between-types-of-css-variables/)
 - [CSS Variables: Why Should You Care? | Google Developers](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
 - [Let's Talk about CSS Variables](http://www.xanthir.com/blog/b4KT0)
+- [Lea Verou's CSS Variables | YouTube](https://youtu.be/2an6-WVPuJU)
