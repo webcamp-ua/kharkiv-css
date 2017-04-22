@@ -8,3 +8,5 @@ code saples for kharkiv-css conference
 - [CSS Variables: Why Should You Care? | Google Developers](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
 - [Let's Talk about CSS Variables](http://www.xanthir.com/blog/b4KT0)
 - [Lea Verou's CSS Variables | YouTube](https://youtu.be/2an6-WVPuJU)
+
+### [Slides](https://github.com/webcamp-ua/kharkiv-css/blob/master/CSS%20Variables.pdf)
